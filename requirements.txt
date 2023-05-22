@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.31.0
 APScheduler==3.6.1
 selenium==3.141.0
 rpyc==4.1.4
